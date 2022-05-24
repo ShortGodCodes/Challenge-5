@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6762CA07-2045-D233-E56B-EDA3846B964B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 5/Scripts/TargetX.cs">
+    <Files>
+      <File FileName="Assets/Challenge 5/Scripts/DifficultyButtonX.cs" Line="1" Column="1" />
+      <File FileName="Assets/Challenge 5/Scripts/TargetX.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Challenge 5" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 5" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="TargetX.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3ed5d20c-2e47-4188-9388-ccedcaed656f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
